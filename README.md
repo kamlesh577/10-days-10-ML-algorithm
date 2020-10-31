@@ -1,1 +1,1 @@
-# 10-days-10-ML-algorithm.
+# 10-days-10-ML-algorithm
